@@ -40,7 +40,7 @@ WAMOCON Academy is connected to WAMOCON GmbH, an active IT test-management compa
 
 ## In which languages is WAMOCON Academy available?
 
-WAMOCON Academy publishes its full course information in German, English and Kazakh, and the website is available in all three languages: German at the site root, English under /bildungstraeger-vorschau/en/ and Kazakh under /bildungstraeger-vorschau/kk/. The ISTQB accreditation held by the academy covers German-language CTFL 4.0 and Agile Tester 1.0 training materials. The language of the website is therefore not the same as the language a course is taught in. Prospective participants who need English-language or Kazakh-language delivery should confirm the arrangement directly with the academy on +49 6196 5838312 or at info@test-it-academy.com.
+WAMOCON Academy publishes its full course information in German, English and Kazakh, and the website is available in all three languages: German at the site root, English under /en/ and Kazakh under /kk/. The ISTQB accreditation held by the academy covers German-language CTFL 4.0 and Agile Tester 1.0 training materials. The language of the website is therefore not the same as the language a course is taught in. Prospective participants who need English-language or Kazakh-language delivery should confirm the arrangement directly with the academy on +49 6196 5838312 or at info@test-it-academy.com.
 
 ## Where is WAMOCON Academy and how do I contact it?
 
